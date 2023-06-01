@@ -196,6 +196,15 @@ img {
     transition: transform .3s;
 }
 
+@media (min-width: 768px) {
+    .list__element--2col {
+        display: flex;
+        justify-content: space-between;
+        gap: 2rem;
+        align-items: center;
+    }
+}
+
 .list__element:hover {
     transform: scale(1.1);
 }
@@ -211,6 +220,22 @@ img {
     margin: 0;
     font-size: 2rem;
     line-height: 1.2;
+}
+
+.list__number {
+    font-size: 6rem;
+    margin: 0;
+    font-weight: 900;
+    color: var(--primario);
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .list__number {
+        flex-basis: 20rem;
+        text-align: right;
+        font-size: 4rem;
+    }
 }
 
 /* SECTION SECURITY */
@@ -258,4 +283,30 @@ img {
     }
 }
 
-.security__img {}
+/* COMMISIONS SECTION */
+@media (min-width: 768px) {
+    .commissions__grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        column-gap: 5rem;
+        align-items: flex-end;
+    }
+}
+
+@media (min-width: 998px) {
+    .commissions__grid {
+        align-items: center;
+    }
+}
+
+.commissions__text {
+    text-align: center;
+    font-size: 2.4rem;
+    font-weight: 700;
+}
+
+@media (min-width: 768px) {
+    .commissions__text {
+        text-align: left;
+    }
+}
