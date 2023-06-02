@@ -1,60 +1,51 @@
-Aquí tienes un ejemplo de README para el proyecto "Nucleus eWallet":
-
 # Nucleus eWallet
 
-Este proyecto es una página web desarrollada con HTML y CSS para Nucleus eWallet, una plataforma de pagos electrónicos. La página web cuenta con las siguientes secciones: Header, Sobre Nosotros, Características de Nucleus, Sobre las Comisiones, Testimoniales y Footer.
+This project is a website developed with HTML and CSS for Nucleus eWallet, an electronic payment platform. The website consists of the following sections: Header, About Us, Nucleus Features, About Commissions, Testimonials, and Footer.
+
 
 ![image](https://github.com/dlozanoc82/nucleus-ewallet/assets/107891479/1a9cf453-81aa-4396-96c7-78efaf8287d4)
 
+## Contents
 
-## Contenido
+The website includes the following sections:
 
-La página web consta de las siguientes secciones:
+- **Header**: This section includes the Nucleus eWallet logo and the main navigation menu.
 
-- **Header**: Esta sección incluye el logo de Nucleus eWallet y la navegación principal del sitio web.
+- **About Us**: In this section, information about Nucleus eWallet.
 
-- **Sobre Nosotros**: En esta sección se presenta información acerca de Nucleus eWallet.
+- **Nucleus Features**: This section highlights the key features and functionalities of Nucleus eWallet, such as fast payments, high-level security, and convenience.
 
-- **Características de Nucleus**: Esta sección destaca las principales características y funcionalidades de Nucleus eWallet, como pagos rápidos, seguridad de alto nivel y conveniencia.
+- **About Commissions**: Here, information about the commissions associated with using Nucleus eWallet is provided, including transaction fees and the benefits of using the platform.
 
-- **Sobre las Comisiones**: Aquí se proporciona información sobre las comisiones asociadas con el uso de Nucleus eWallet, incluyendo las tarifas por transacción y los beneficios de utilizar la plataforma.
+- **Testimonials**: This section presents testimonials from satisfied customers who have used Nucleus eWallet, highlighting their positive experience and the benefits they have gained.
 
-- **Testimoniales**: En esta sección se presentan testimonios de clientes satisfechos que han utilizado Nucleus eWallet, resaltando su experiencia positiva y los beneficios que han obtenido.
+- **Footer**: The footer includes contact information, links to social media, and other useful links related to Nucleus eWallet.
 
-- **Footer**: El footer incluye información de contacto, enlaces a las redes sociales y otros enlaces útiles relacionados con Nucleus eWallet.
+## Installation
 
-## Instalación
+To run this project on your local machine, follow these steps:
 
-Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in your web browser.
 
-1. Clona este repositorio en tu máquina local.
+## Usage
 
-2. Abre el archivo `index.html` en tu navegador web.
+The website is easy to navigate and use. The header provides access to all sections of the website. Users can obtain information about Nucleus eWallet, its features, commissions, and customer testimonials. Additionally, the footer offers contact options and access to social media.
 
-## Uso
+## Contribution
 
-La página web es fácil de navegar y utilizar. El header proporciona acceso a todas las secciones del sitio web. Los usuarios pueden obtener información sobre Nucleus eWallet, sus características, comisiones y testimonios de clientes. Además, el footer ofrece opciones de contacto y acceso a las redes sociales.
+If you wish to contribute to this project, follow these steps:
 
-## Contribución
+1. Fork this repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them.
+4. Send a pull request to the main branch of this repository.
 
-Si deseas contribuir a este proyecto, puedes hacerlo siguiendo estos pasos:
+## Credits
+This project was developed by Daniel Lozano. It uses HTML and CSS to create an attractive and functional user interface.
 
-1. Haz un fork de este repositorio.
+## License
+This project is distributed under the MIT License. See the LICENSE file for more information.
 
-2. Crea una nueva rama para tus cambios.
-
-3. Realiza tus cambios y realiza un commit.
-
-4. Envía una solicitud de extracción a la rama principal de este repositorio.
-
-## Créditos
-
-Este proyecto fue desarrollado por [nombre del desarrollador]. Utiliza HTML y CSS para crear una interfaz de usuario atractiva y funcional.
-
-## Licencia
-
-Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más información.
-
-## Contacto
-
-Si tienes alguna pregunta o comentario sobre este proyecto, puedes ponerte en contacto con el equipo de desarrollo a través de nuestro correo electrónico o redes sociales.
+## Contact
+If you have any questions or comments about this project, you can contact the development team through our email or social media channels.
